@@ -1,0 +1,1 @@
+These are the files for the Front End of the Face Recognition App.
